@@ -26,7 +26,7 @@ namespace YedoProjeto1.Autenticação
             
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void sairToolStripMenuItem_Click(object sender, EventArgs e)
         {
             this.Close();
         }
