@@ -1,0 +1,13 @@
+C:\Users\UltraHP\Documents\YedoProjeto1\YedoProjeto1.Autenticação\bin\Debug\YedoProjeto1.Autenticação.exe.config
+C:\Users\UltraHP\Documents\YedoProjeto1\YedoProjeto1.Autenticação\bin\Debug\YedoProjeto1.Autenticação.exe
+C:\Users\UltraHP\Documents\YedoProjeto1\YedoProjeto1.Autenticação\bin\Debug\YedoProjeto1.Autenticação.pdb
+C:\Users\UltraHP\Documents\YedoProjeto1\YedoProjeto1.Autenticação\obj\Debug\YedoProjeto1.Autenticação.csproj.AssemblyReference.cache
+C:\Users\UltraHP\Documents\YedoProjeto1\YedoProjeto1.Autenticação\obj\Debug\YedoProjeto1.Autenticação.csproj.SuggestedBindingRedirects.cache
+C:\Users\UltraHP\Documents\YedoProjeto1\YedoProjeto1.Autenticação\obj\Debug\YedoProjeto1.Autenticação.frmAutenticacao.resources
+C:\Users\UltraHP\Documents\YedoProjeto1\YedoProjeto1.Autenticação\obj\Debug\YedoProjeto1.Autenticação.Properties.Resources.resources
+C:\Users\UltraHP\Documents\YedoProjeto1\YedoProjeto1.Autenticação\obj\Debug\YedoProjeto1.Autenticação.csproj.GenerateResource.cache
+C:\Users\UltraHP\Documents\YedoProjeto1\YedoProjeto1.Autenticação\obj\Debug\YedoProjeto1.Autenticação.csproj.CoreCompileInputs.cache
+C:\Users\UltraHP\Documents\YedoProjeto1\YedoProjeto1.Autenticação\obj\Debug\YedoProjeto1.Autenticação.exe
+C:\Users\UltraHP\Documents\YedoProjeto1\YedoProjeto1.Autenticação\obj\Debug\YedoProjeto1.Autenticação.pdb
+C:\Users\UltraHP\Documents\YedoProjeto1\YedoProjeto1.Autenticação\obj\Debug\YedoProjeto1.Autenticação.FrmMenu.resources
+C:\Users\UltraHP\Documents\YedoProjeto1\YedoProjeto1.Autenticação\obj\Debug\YedoProjeto1.Autenticação.FrmCadCliente.resources
